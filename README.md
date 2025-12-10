@@ -82,3 +82,7 @@ Me chamo Diego Pereira Betti, tenho 21 anos e sou de Juiz de Fora. Atualmente, e
 />
 
 <br/>
+
+### Contatos:
+  - 📫 Contate-me no e-mail: diegopbetti@gmail.com
+  - 💼 LinkedIn: https://www.linkedin.com/in/diego-pereira-betti-884047384/
