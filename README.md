@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Pereira Betti, tenho 21 anos e sou de Juiz de Fora. Atualmente, estou cursando Sistemas de Informação na UFJF.
+Graduando de Sistemas de Informação na UFJF, tenho 21 anos e sou de Juiz de Fora.
 
 ---
 
